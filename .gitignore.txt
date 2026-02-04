@@ -1,0 +1,4 @@
+# ...existing code...
+**/bin/
+**/obj/
+**/appsettings.*.json

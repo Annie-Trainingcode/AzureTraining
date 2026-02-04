@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuctionService", "AuctionService\AuctionService.csproj", "{3C3056E9-7D31-4206-A423-D076D2CD4D0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BpMessageBus", "BpMessageBus\BpMessageBus.csproj", "{C5C5C4B4-41CD-4F52-AF0A-E7CAAE837018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3056E9-7D31-4206-A423-D076D2CD4D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3056E9-7D31-4206-A423-D076D2CD4D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3056E9-7D31-4206-A423-D076D2CD4D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3056E9-7D31-4206-A423-D076D2CD4D0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C5C4B4-41CD-4F52-AF0A-E7CAAE837018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C5C4B4-41CD-4F52-AF0A-E7CAAE837018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C5C4B4-41CD-4F52-AF0A-E7CAAE837018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C5C4B4-41CD-4F52-AF0A-E7CAAE837018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3D91591-1863-4BB8-AF45-CB20895AA5D2}
+	EndGlobalSection
+EndGlobal
